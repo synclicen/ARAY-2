@@ -16,7 +16,7 @@ ARAY is in active Phase 1 development. Security fixes are applied to the latest 
 
 Instead, report privately:
 
-1. Go to <https://github.com/synclicen/ARAY/security/advisories/new>
+1. Go to <https://github.com/synclicen/ARAY-2/security/advisories/new>
 2. Click **"Report a vulnerability"**
 3. Fill in:
    - Description of the issue
@@ -85,5 +85,5 @@ When a security fix is released:
 
 ## Contact
 
-- **Security advisories**: <https://github.com/synclicen/ARAY/security/advisories>
+- **Security advisories**: <https://github.com/synclicen/ARAY-2/security/advisories>
 - **General security questions**: open a Discussion (public) or Advisory (private)

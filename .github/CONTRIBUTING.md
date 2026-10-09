@@ -29,8 +29,8 @@ ARAY is currently in **Phase 1** (Core). See [`docs/ARCHITECTURE.md`](../docs/AR
 ### First-time setup
 
 ```bash
-git clone https://github.com/synclicen/ARAY.git
-cd ARAY
+git clone https://github.com/synclicen/ARAY-2.git
+cd ARAY-2
 npm install
 npm run dev
 ```
@@ -233,8 +233,8 @@ Every TypeScript file should start with a brief JSDoc explaining its purpose:
 
 ## 📞 Getting Help
 
-- **Issues**: <https://github.com/synclicen/ARAY/issues>
-- **Discussions**: <https://github.com/synclicen/ARAY/discussions> (if enabled)
+- **Issues**: <https://github.com/synclicen/ARAY-2/issues>
+- **Discussions**: <https://github.com/synclicen/ARAY-2/discussions> (if enabled)
 - **Security**: see [`docs/SECURITY.md`](../docs/SECURITY.md) for responsible disclosure
 
 ---
